@@ -16,3 +16,7 @@ This will be used to describe myself
 * [Google Fonts](https://fonts.google.com/)
 * [bypeople](https://www.bypeople.com/)
 * [HailPixel](https://color.hailpixel.com/)
+
+## Contributors
+Noah Mahlberg
+![My dog and I](https://github.com/nmahlberg/about-me/blob/master/MeNBells.jpg)
