@@ -19,5 +19,5 @@ This will be used to describe myself
 
 ## Contributors
 Noah Mahlberg
-![My dog and I](https://github.com/nmahlberg/about-me/blob/master/MeNBell.JPG)
+![My dog and I](https://github.com/nmahlberg/about-me/blob/master/menbells.PNG)
 
